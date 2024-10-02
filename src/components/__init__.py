@@ -1,0 +1,1 @@
+# data_ingestion, data transformation and model_trainer are the training part 
