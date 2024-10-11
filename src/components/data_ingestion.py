@@ -6,6 +6,8 @@ import pandas as pd
 
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
+from src.components.data_transformation import DataTransformation
+from src.components.data_transformation import DataTransformationConfig
 
 @dataclass
 class DataIngestionConfig:
@@ -36,10 +38,17 @@ class DataIngestion:
             return(
                 self.ingestion_config.train_data_path,
                 self.ingestion_config.test_data_path,
-                self.ingestion_config.raw_data_path
             )
         
         
         
         except Exception as e:
             raise CustomException(f"Data ingestion failed: {e}")
+        
+
+if __name__ == "__main__":
+    di = DataIngestion()
+    train_data,test_data = di.initiate_data_ingestion()
+
+    dt = DataTransformation()
+    dt.initiate_data_transformation(train_data,test_data)
