@@ -14,15 +14,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Home.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Student Performance Project</h3>
 
-  <p align="center">
-    This project leverages a Student Performance Dataset to predict a student's math exam score based on various economic, personal, and social factors.
+This project leverages a Student Performance Dataset to predict a student's math exam score based on various economic, personal, and social factors. The model achieves an accuracy(r2 score) of 89%.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -161,10 +159,16 @@ Ensure you have the following installed:
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+### Example Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. **Home Page**: Start by navigating to the home page of the application. You will see a welcome message and a button to proceed to the prediction form.
+    ![Home Page](images/Home.jpg)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+2. **Prediction Form**: Click on the "Go to Predict" button to access the prediction form. Here, you can input various economic, personal, and social factors.
+    ![Prediction Form](images/Form.jpg)
+
+3. **Prediction Result**: After filling out the form and submitting it, you will see the predicted math score.
+    ![Prediction Result](images/Prediction.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +213,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hichem Ayari - [@your_Linkedin](https://www.linkedin.com/in/hichem-ayari/) - ayari.hicham01@gmail.com
+Hichem Ayari - [LinkedIn](https://www.linkedin.com/in/hichem-ayari/) - ayari.hicham01@gmail.com
 
 Project Link: [https://github.com/hichem-18/mlProjet](https://github.com/hichem-18/mlProjet)
 
