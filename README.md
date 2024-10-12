@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Home.jpg" alt="Logo" width="80" height="80">
+    <img src="images/Home.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Student Performance Project</h3>
@@ -165,10 +165,10 @@ Ensure you have the following installed:
     ![Home Page](images/Home.jpg)
 
 2. **Prediction Form**: Click on the "Go to Predict" button to access the prediction form. Here, you can input various economic, personal, and social factors.
-    ![Prediction Form](images/Form.jpg)
+    ![Prediction Form](images/form.jpg)
 
 3. **Prediction Result**: After filling out the form and submitting it, you will see the predicted math score.
-    ![Prediction Result](images/Prediction.jpg)
+    ![Prediction Result](images/prediction.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
