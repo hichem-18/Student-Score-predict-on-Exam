@@ -1,14 +1,6 @@
 <a id="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -19,15 +11,16 @@
 
   <h3 align="center">Student Performance Project</h3>
 
-This project leverages a Student Performance Dataset to predict a student's math exam score based on various economic, personal, and social factors. The model achieves an accuracy(r2 score) of 89%.
+This project leverages a Student Performance Dataset to predict a student's math exam score based on various economic, personal, and social factors. The model achieves an accuracy (r2 score) of 
+<b> 89%. </b>
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#">View Demo0 will be deployed Soon</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/hichem-18/mlProjet/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/hichem-18/mlProjet/issues/new">Request Feature</a>
   </p>
 </div>
 
