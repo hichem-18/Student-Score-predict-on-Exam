@@ -16,7 +16,7 @@ This project leverages a Student Performance Dataset to predict a student's math
     <br />
     <br />
     <br />
-    <a href="#">View Demo0 will be deployed Soon</a>
+    <a href="#">View Demo-will be deployed Soon</a>
     ·
     <a href="https://github.com/hichem-18/mlProjet/issues/new">Report Bug</a>
     ·
