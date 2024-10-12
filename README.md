@@ -71,7 +71,6 @@ This project leverages a Student Performance Dataset to predict a student's math
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project aims to predict a student's math exam score using a dataset that includes various economic, personal, and social factors. By leveraging machine learning techniques, we hope to identify key indicators that influence academic performance and provide insights that can help educators and policymakers improve student outcomes.
 
