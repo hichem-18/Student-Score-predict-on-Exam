@@ -1,33 +1,26 @@
 <a id="readme-top"></a>
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/Home.jpg" alt="Logo" width="80" height="80">
+    <img src="images/Home.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Student Performance Project</h3>
 
-This project leverages a Student Performance Dataset to predict a student's math exam score based on various economic, personal, and social factors. The model achieves an accuracy(r2 score) of 89%.
+This project leverages a Student Performance Dataset to predict a student's math exam score based on various economic, personal, and social factors. The model achieves an accuracy (r2 score) of 
+<b> 89%. </b>
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#">View Demo-will be deployed Soon</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/hichem-18/mlProjet/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/hichem-18/mlProjet/issues/new">Request Feature</a>
   </p>
 </div>
 
@@ -78,7 +71,6 @@ This project leverages a Student Performance Dataset to predict a student's math
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project aims to predict a student's math exam score using a dataset that includes various economic, personal, and social factors. By leveraging machine learning techniques, we hope to identify key indicators that influence academic performance and provide insights that can help educators and policymakers improve student outcomes.
 
@@ -165,10 +157,10 @@ Ensure you have the following installed:
     ![Home Page](images/Home.jpg)
 
 2. **Prediction Form**: Click on the "Go to Predict" button to access the prediction form. Here, you can input various economic, personal, and social factors.
-    ![Prediction Form](images/Form.jpg)
+    ![Prediction Form](images/form.jpg)
 
 3. **Prediction Result**: After filling out the form and submitting it, you will see the predicted math score.
-    ![Prediction Result](images/Prediction.jpg)
+    ![Prediction Result](images/prediction.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
